@@ -10,3 +10,8 @@
 
 - OpenWeather API
 
+# Preview of Application
+
+![](https://github.com/nihadae/WeatherNowApp/blob/main/Preview.gif)
+
+
